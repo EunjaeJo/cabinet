@@ -15,7 +15,7 @@ body {
 .sidebar {
   width: 350px;
   height: 100%;
-  background-color: #000000;
+  background-color: red;
   border-radius: 35px;
   position: absolute;
   left: 0;
